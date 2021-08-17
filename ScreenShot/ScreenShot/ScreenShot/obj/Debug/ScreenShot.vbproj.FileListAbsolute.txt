@@ -1,0 +1,12 @@
+C:\Users\ygzat\Desktop\ScreenShot\ScreenShot\ScreenShot\bin\Debug\ScreenShot.exe.config
+C:\Users\ygzat\Desktop\ScreenShot\ScreenShot\ScreenShot\bin\Debug\ScreenShot.exe
+C:\Users\ygzat\Desktop\ScreenShot\ScreenShot\ScreenShot\bin\Debug\ScreenShot.pdb
+C:\Users\ygzat\Desktop\ScreenShot\ScreenShot\ScreenShot\bin\Debug\ScreenShot.xml
+C:\Users\ygzat\Desktop\ScreenShot\ScreenShot\ScreenShot\obj\Debug\ScreenShot.vbprojAssemblyReference.cache
+C:\Users\ygzat\Desktop\ScreenShot\ScreenShot\ScreenShot\obj\Debug\ScreenShot.Form1.resources
+C:\Users\ygzat\Desktop\ScreenShot\ScreenShot\ScreenShot\obj\Debug\ScreenShot.Resources.resources
+C:\Users\ygzat\Desktop\ScreenShot\ScreenShot\ScreenShot\obj\Debug\ScreenShot.vbproj.GenerateResource.cache
+C:\Users\ygzat\Desktop\ScreenShot\ScreenShot\ScreenShot\obj\Debug\ScreenShot.vbproj.CoreCompileInputs.cache
+C:\Users\ygzat\Desktop\ScreenShot\ScreenShot\ScreenShot\obj\Debug\ScreenShot.exe
+C:\Users\ygzat\Desktop\ScreenShot\ScreenShot\ScreenShot\obj\Debug\ScreenShot.xml
+C:\Users\ygzat\Desktop\ScreenShot\ScreenShot\ScreenShot\obj\Debug\ScreenShot.pdb
